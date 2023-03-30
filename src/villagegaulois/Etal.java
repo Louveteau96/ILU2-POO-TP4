@@ -3,7 +3,7 @@ import personnages.*;
 import produit.*;
 
 public class Etal<P extends Produit>{
-	private Gaulois gaulois;
+	private Gaulois vendeur;
 	private P[] tabProduits;
 	
 	
